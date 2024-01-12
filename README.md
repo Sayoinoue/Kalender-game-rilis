@@ -1,6 +1,7 @@
 # Kalender-game-rilis
 Project Kalender Video Game Rilis merupakan project API menggunakan RAWG.IO API
 <hr>
-Nama        : Moh Ardi Rizaldi 
-NIM         : 18.01.55.0043
+<br>
+Nama        : Moh Ardi Rizaldi <br>
+NIM         : 18.01.55.0043<br>
 Mata kuliah : Web Service Development
